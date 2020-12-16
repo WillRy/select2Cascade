@@ -1,0 +1,16 @@
+{
+    "results": [
+        {
+            "id":1,
+            "text":"Categoria 1"
+        },
+        {
+            "id":2,
+            "text":"Categoria 2"
+        },
+        {
+            "id":3,
+            "text":"Categoria 3"
+        }
+    ]
+}
